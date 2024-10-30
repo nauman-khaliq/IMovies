@@ -1,2 +1,2 @@
 # IMovies
-A sample project to demonstrate the use of MVVM architecture in Android. Retrieves movies list from API, show it to user, make movie favorite, play trailer, advance UI/UX
+A sample project to demonstrate the use of MVVM architecture in Android. Retrieves movies list from API shows it to the user, makes movie favorite, plays trailer, advanced searching, advanced UI/UX.
