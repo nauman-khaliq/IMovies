@@ -1,0 +1,14 @@
+<!--
+  ~ MIT License
+  ~
+  ~ Copyright (c) 2020 Nauman Khaliq
+  ~
+  -->
+
+<resources>
+    <string name="app_name">I Movies</string>
+    <string name="text_no_connectivity">No Connection</string>
+    <string name="text_connectivity">Back Online</string>
+    <string name="added_to_favourites_mess">Added to Favourites</string>
+    <string name="removed_from_favourites_mess">Removed from Favourites</string>
+</resources>

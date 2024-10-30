@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ MIT License
+  ~
+  ~ Copyright (c) 2024 Nauman Khaliq
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@id/moviesFragment"
+        android:icon="@drawable/ic_movies_24"
+        android:title="Movies" />
+
+    <item
+        android:id="@id/favouriteMoviesFragment"
+        android:icon="@drawable/ic_favorite_border_24"
+        android:title="Favourites" />
+
+
+</menu>

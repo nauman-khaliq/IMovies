@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/statusBarColor</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">@bool/windowLightStatusBar
+        </item>
+        <item name="android:windowBackground">@drawable/ic_launcher_foreground</item>
+    </style>
+</resources>

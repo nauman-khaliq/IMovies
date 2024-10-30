@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="windowBackground">#E5E5E5</color>
+    <color name="colorAccent">#E23E3E</color>
+    <color name="statusBarColor">#FFFFFF</color>
+
+    <color name="light_gray_text">#7D848D</color>
+    <color name="light_gray_back">#F7F7F9</color>
+    <color name="textColor">@android:color/black</color>
+    <color name="bulbColor">@android:color/black</color>
+    <color name="post_background">@android:color/white</color>
+    <color name="color_variant">#9C2626</color>
+
+    <color name="imageBackgroundTint">#C3C3C3</color>
+
+    <color name="colorStatusConnected">#43A047</color>
+    <color name="colorStatusNotConnected">#D32F2F</color>
+
+    <color name="green">#5cd65c</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white90">#e5ffffff</color>
+    <color name="white50">#80FFFFFF</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="black100">#000000</color>
+    <color name="black70">#b3000000</color>
+    <color name="black10">#19000000</color>
+    <color name="black20">#32000000</color>
+    <color name="black30">#4b000000</color>
+    <color name="black40">#64000000</color>
+    <color name="black50">#80000000</color>
+    <color name="black4">#0a000000</color>
+    <color name="black5">#0D000000</color>
+    <color name="light_gray">#eff3f5</color>
+    <color name="light_gray_two">#c1c8cd</color>
+
+    <color name="orange_200">#FFA600</color>
+    <color name="orange_500">#FFA500</color>
+    <color name="orange_700">#FF9800</color>
+</resources>
