@@ -36,18 +36,14 @@ IMovies showcases:
 - **Espresso** for UI testing
 - **Jetpack Navigation Tests**
 
-## Preview
-
-[![Preview](videos/preview.mp4)](videos/preview.mp4)
-
 ## Screenshots
 
-![Screenshot 1](screenShots/screenShot1.jpg)
-![Screenshot 2](screenShots/screenShot2.jpg)
-![Screenshot 2](screenShots/screenShot3.jpg)
-![Screenshot 2](screenShots/screenShot4.jpg)
-![Screenshot 2](screenShots/screenShot5.jpg)
-![Screenshot 2](screenShots/screenShot6.jpg)
+<img src="screenShots/screenShot1.jpg" alt="Screenshot 1" width="400"/>
+<img src="screenShots/screenShot2.jpg" alt="Screenshot 2" width="400"/>
+<img src="screenShots/screenShot3.jpg" alt="Screenshot 3" width="400"/>
+<img src="screenShots/screenShot4.jpg" alt="Screenshot 4" width="400"/>
+<img src="screenShots/screenShot5.jpg" alt="Screenshot 5" width="400"/>
+<img src="screenShots/screenShot6.jpg" alt="Screenshot 6" width="400"/>
 
 ## Getting Started
 
