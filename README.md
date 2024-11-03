@@ -38,12 +38,12 @@ IMovies showcases:
 
 ## Screenshots
 
-<img src="screenShots/screenShot1.jpg" alt="Screenshot 1" width="400"/>
-<img src="screenShots/screenShot2.jpg" alt="Screenshot 2" width="400"/>
-<img src="screenShots/screenShot3.jpg" alt="Screenshot 3" width="400"/>
-<img src="screenShots/screenShot4.jpg" alt="Screenshot 4" width="400"/>
-<img src="screenShots/screenShot5.jpg" alt="Screenshot 5" width="400"/>
-<img src="screenShots/screenShot6.jpg" alt="Screenshot 6" width="400"/>
+<img src="screenShots/screenShot1.jpg" alt="Screenshot 1" width="400" height = "866"/>
+<img src="screenShots/screenShot2.jpg" alt="Screenshot 2" width="400" height = "866"/>
+<img src="screenShots/screenShot3.jpg" alt="Screenshot 3" width="400" height = "866"/>
+<img src="screenShots/screenShot4.jpg" alt="Screenshot 4" width="400" height = "866"/>
+<img src="screenShots/screenShot5.jpg" alt="Screenshot 5" width="400" height = "866"/>
+<img src="screenShots/screenShot6.jpg" alt="Screenshot 6" width="400" height = "866"/>
 
 ## Getting Started
 
